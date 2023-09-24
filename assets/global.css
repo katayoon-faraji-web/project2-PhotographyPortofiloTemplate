@@ -1,0 +1,41 @@
+*,*::after,*::before{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    font-family: oswald;
+}
+p{
+    color:  rgb(116, 114, 114);
+    font-size: 20px;
+    text-align: justify;
+}
+li{
+    list-style-type: none;
+}
+strong{
+    display: flex;
+    width: 100%;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 60px;
+    font-size: 30px;
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
