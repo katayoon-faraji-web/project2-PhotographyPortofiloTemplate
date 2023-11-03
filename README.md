@@ -1,4 +1,4 @@
-# project2
+# project2-Photography Portofilo Template
 
 
 ![project2](https://github.com/katayoon-faraji-web/project2/assets/144775981/2a6767ea-b60c-4641-91ad-f035d7873589)
