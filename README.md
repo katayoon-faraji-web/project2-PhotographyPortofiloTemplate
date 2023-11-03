@@ -3,7 +3,7 @@
 
 ![project2](https://github.com/katayoon-faraji-web/project2/assets/144775981/2a6767ea-b60c-4641-91ad-f035d7873589)
 
-- [Demo Project](https://katayoon-faraji-web.github.io/project2/)
+- [Demo Project](https://katayoon-faraji-web.github.io/project2-PhotographyPortofiloTemplate/)
 
 - Developed by katayoon faraji
 
